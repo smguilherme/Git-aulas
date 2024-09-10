@@ -1,2 +1,3 @@
 # Git aulas
- Repositório aula Git e GitHub
+
+ Repositório de aulas: Git e GitHub
